@@ -1,2 +1,2 @@
-# lang-chain-and-graph
+# LangChain Academy - LangGraph Course
 LangChain and LangGraph
